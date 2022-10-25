@@ -144,3 +144,58 @@ body {
     width: 80%;
     margin: 80px;
 }
+
+.their-lives-child {
+    width: 70%;
+    padding: 80px;
+}
+
+.their-lives-child h2 {
+    font-size: 50px;
+}
+
+.Get-My-Updates {
+    text-align: center;
+
+}
+
+.Get-My-Updates h2 {
+    font-size: 40px;
+
+}
+
+.Get-My-Updates input {
+    padding: 10px 30px;
+
+}
+
+.Get-My-Updates button {
+    padding: 10px 30px;
+
+}
+
+.Get-My-Updates form {
+
+
+    width: 600px;
+    height: 200px;
+    background-color: antiquewhite;
+}
+
+.form-input {
+    text-align: center;
+    padding-top: 40px;
+}
+
+footer {
+    background-color: black;
+    color: rgb(219, 52, 52);
+    height: 100px;
+    text-align: center;
+    padding-top: 70px;
+
+}
+
+footer p {
+    color: beige;
+}
