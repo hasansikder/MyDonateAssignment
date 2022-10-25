@@ -1,4 +1,85 @@
+* {
+    margin: 0;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
 
+}
+
+.top-section1 {
+    background: linear-gradient(0deg, rgba(34, 26, 31, 0.3), rgba(53, 44, 49, 0.3)), url('images/donation3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+
+}
+
+.first-section-banner {
+    text-align: center;
+    color: white;
+
+}
+
+.first-section-banner a {
+    border: 2px solid tomato;
+    background-color: tomato;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 12px;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+
+}
+
+.first-section-banner {}
+
+.section-hedding {
+    padding-top: 200px;
+    color: white;
+    font-size: 60px;
+}
+
+/* first section end */
+
+.second-section {
+    text-align: center;
+    padding-top: 90px;
+
+
+
+
+}
+
+.second-section h2 {
+    font-size: 40px;
+    color: black;
+
+
+}
+
+.ammount h4 {
+    padding: 20px 30px;
+    border: 1px solid rgb(199, 182, 182);
+    margin: 10px;
+    font-size: 20px;
+
+
+}
+
+.light-ammount h4 {
+    border: 1px solid tomato;
+    margin: 10px;
+    padding: 20px 30px;
+    color: tomato;
+    font-size: 20px;
+}
+
+
+.donnation-ammount {
+    display: flex;
+    margin: 30px;
 }
