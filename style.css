@@ -22,7 +22,7 @@ body {
 
 }
 
-.first-section-banner a {
+.donate-button {
     border: 2px solid tomato;
     background-color: tomato;
     text-decoration: none;
@@ -30,10 +30,12 @@ body {
     padding: 10px 12px;
     border-radius: 5px;
     font-size: 20px;
+    margin-top: 30px;
 
 
 
 }
+
 
 .first-section-banner {}
 
@@ -82,4 +84,63 @@ body {
 .donnation-ammount {
     display: flex;
     margin: 30px;
+
+}
+
+.card3 {
+    display: flex;
+    margin: 80px;
+
+
+
+}
+
+.card3 div {
+    border: 1px solid wheat;
+
+    margin: 20px;
+    padding: 80px 30px;
+
+}
+
+.first-card {
+    background-color: #4f9da663;
+}
+
+.sceond-card {
+    background-color: #ff59595e;
+}
+
+.third-card {
+    background-color: #ee8d8d5e;
+}
+
+.common-imgh {
+
+    width: 50px;
+    height: 50px;
+}
+
+.donat-plan {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+
+}
+
+.donat-plan-p {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+/* 2section */
+
+.their-lives {
+    display: flex;
+}
+
+.their-lives-img {
+    width: 80%;
+    margin: 80px;
 }
